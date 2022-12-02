@@ -1,0 +1,10 @@
+{
+    "bot_name": "Phoenix",
+    "model": "../model/trained.pth",
+    "dataset": "../multintents/2.json",
+    "num_epochs": 1000,
+    "early_stop": false,
+    "batch_size": 8,
+    "learning_rate": 0.001,
+    "hidden_size": 8
+}

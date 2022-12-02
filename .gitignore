@@ -1,0 +1,3 @@
+model/trained.pth
+scripts/__pycache__/*
+torchat/*
